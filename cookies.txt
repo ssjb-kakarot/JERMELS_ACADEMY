@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+jermelsacademy.org	TRUE	/	FALSE	1999999999	PHPSESSID	641b64f00bb478acadd3b4ec157a160c
+.whatsapp.com	TRUE	/	FALSE	1999999999	wa_lang_pref	en
+

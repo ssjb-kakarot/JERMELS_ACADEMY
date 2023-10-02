@@ -1,0 +1,127 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 02 Oct 2023 20:38:14 at https://jermelsacademy.org/index.php https://jermelsacademy.org/student_dash.php?A=7136 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://jermelsacademy.org/index.php https://jermelsacademy.org/student_dash.php?A=7136 -O1 "C:\Users\Ankit Sarkar\Desktop\school\JERMELS ACADEMY" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:38:33	Error: 	"Not Found" (404) at link https://jermelsacademy.org/img/favicon.ico (from https://jermelsacademy.org/index.php)
+20:38:33	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://jermelsacademy.org/index.php)
+20:39:05	Error: 	"Not Found" (404) at link https://jermelsacademy.org/img/spin.svg (from https://jermelsacademy.org/index.php)
+20:39:33	Error: 	"Not Found" (404) at link https://jermelsacademy.org/lib/flaticon/font/Flaticon.eot (from https://jermelsacademy.org/lib/flaticon/font/flaticon.css)
+20:39:33	Error: 	"Not Found" (404) at link https://jermelsacademy.org/lib/flaticon/font/Flaticon.eot? (from https://jermelsacademy.org/lib/flaticon/font/flaticon.css)
+20:39:42	Error: 	"Not Found" (404) at link https://jermelsacademy.org/apple-touch-icon.png (from https://jermelsacademy.org/mandatory.php)
+20:39:42	Error: 	"Not Found" (404) at link https://jermelsacademy.org/images/fav.png (from https://jermelsacademy.org/mandatory.php)
+20:39:47	Error: 	"Not Found" (404) at link https://jermelsacademy.org/css/bootstrap.min.css (from https://jermelsacademy.org/mandatory.php)
+20:39:47	Error: 	"Not Found" (404) at link https://jermelsacademy.org/css/font-awesome.min.css (from https://jermelsacademy.org/mandatory.php)
+20:39:47	Error: 	"Not Found" (404) at link https://jermelsacademy.org/css/animate.css (from https://jermelsacademy.org/mandatory.php)
+20:39:47	Error: 	"Not Found" (404) at link https://jermelsacademy.org/css/owl.carousel.css (from https://jermelsacademy.org/mandatory.php)
+20:39:47	Error: 	"Not Found" (404) at link https://jermelsacademy.org/css/slick.css (from https://jermelsacademy.org/mandatory.php)
+20:39:47	Error: 	"Not Found" (404) at link https://jermelsacademy.org/css/rsmenu-main.css (from https://jermelsacademy.org/mandatory.php)
+20:39:47	Error: 	"Not Found" (404) at link https://jermelsacademy.org/css/rsmenu-transitions.css (from https://jermelsacademy.org/mandatory.php)
+20:39:47	Error: 	"Not Found" (404) at link https://jermelsacademy.org/css/magnific-popup.css (from https://jermelsacademy.org/mandatory.php)
+20:39:47	Error: 	"Not Found" (404) at link https://jermelsacademy.org/fonts/flaticon.css (from https://jermelsacademy.org/mandatory.php)
+20:39:47	Error: 	"Not Found" (404) at link https://jermelsacademy.org/style.css (from https://jermelsacademy.org/mandatory.php)
+20:39:47	Error: 	"Not Found" (404) at link https://jermelsacademy.org/css/responsive.css (from https://jermelsacademy.org/mandatory.php)
+20:40:06	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send/LYq (from https://api.whatsapp.com/send/?phone=918101913938&text&type=phone_number&app_absent=0)
+20:41:04	Warning: 	Retry after error 409 (Conflict) at link https://rgtechwebsolution.com/mail.php (from https://rgtechwebsolution.com/)
+20:41:04	Warning: 	Retry after error -4 (No data (connection closed)) at link rgtechwebsolutions.com/wp-content/uploads/2016/11/rgtech-web-solutions-siliguri-west-bengal-logo.png (from https://rgtechwebsolution.com/)
+20:41:10	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/apple-touch-icon.png (from https://jermelsacademy.org/2022-2023/admin_login.php?A=F)
+20:41:10	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/images/fav.png (from https://jermelsacademy.org/2022-2023/admin_login.php?A=F)
+20:41:39	Warning: 	File not parsed, looks like binary: https://jermelsacademy.org/pdf/disclosur/disclosur20.
+20:41:42	Warning: 	File not parsed, looks like binary: https://jermelsacademy.org/pdf/disclosur/disclosur21.
+20:41:43	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send/Firefox/ (from https://static.whatsapp.net/rsrc.php/v3/y6/r/3nH_tExy8kn.js?_nc_x=Ij3Wp8lg5Kz)
+20:41:43	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send/Edg/ (from https://static.whatsapp.net/rsrc.php/v3/y6/r/3nH_tExy8kn.js?_nc_x=Ij3Wp8lg5Kz)
+20:41:43	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send/Chrome/ (from https://static.whatsapp.net/rsrc.php/v3/y6/r/3nH_tExy8kn.js?_nc_x=Ij3Wp8lg5Kz)
+20:41:43	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send/CriOS/ (from https://static.whatsapp.net/rsrc.php/v3/y6/r/3nH_tExy8kn.js?_nc_x=Ij3Wp8lg5Kz)
+20:41:43	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send/Safari/ (from https://static.whatsapp.net/rsrc.php/v3/y6/r/3nH_tExy8kn.js?_nc_x=Ij3Wp8lg5Kz)
+20:41:43	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send/Version/ (from https://static.whatsapp.net/rsrc.php/v3/y6/r/3nH_tExy8kn.js?_nc_x=Ij3Wp8lg5Kz)
+20:41:43	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send/chrome-extension:// (from https://static.whatsapp.net/rsrc.php/v3/y6/r/3nH_tExy8kn.js?_nc_x=Ij3Wp8lg5Kz)
+20:41:43	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send/GET (from https://static.whatsapp.net/rsrc.php/v3/y6/r/3nH_tExy8kn.js?_nc_x=Ij3Wp8lg5Kz)
+20:41:43	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send/^([^:/? (from https://static.whatsapp.net/rsrc.php/v3/y6/r/3nH_tExy8kn.js?_nc_x=Ij3Wp8lg5Kz)
+20:41:43	Error: 	"Read error when decompressing" (-1) at link https://rgtechwebsolution.com/fonts/glyphicons-halflings-regular.eot (from https://rgtechwebsolution.com/css/bootstrap.css)
+20:41:43	Error: 	"Read error when decompressing" (-1) at link https://rgtechwebsolution.com/fonts/glyphicons-halflings-regular.eot? (from https://rgtechwebsolution.com/css/bootstrap.css)
+20:41:43	Error: 	"Read error when decompressing" (-1) at link https://rgtechwebsolution.com/fonts/glyphicons-halflings-regular.ttf (from https://rgtechwebsolution.com/css/bootstrap.css)
+20:41:43	Error: 	"Read error when decompressing" (-1) at link https://rgtechwebsolution.com/fonts/glyphicons-halflings-regular.svg (from https://rgtechwebsolution.com/css/bootstrap.css)
+20:41:43	Warning: 	Retry after error 409 () at link https://rgtechwebsolution.com/mail.php (from https://rgtechwebsolution.com/)
+20:41:43	Warning: 	Retry after error -4 (No data (connection closed)) at link rgtechwebsolutions.com/wp-content/uploads/2016/11/rgtech-web-solutions-siliguri-west-bengal-logo.png (from https://rgtechwebsolution.com/)
+20:41:44	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/fonts/fontawesome-webfont.eot?v=4.7.0 (from https://jermelsacademy.org/2022-2023/css/font-awesome.min.css)
+20:41:44	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/fonts/fontawesome-webfont.eot? (from https://jermelsacademy.org/2022-2023/css/font-awesome.min.css)
+20:41:44	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/fonts/fontawesome-webfont.woff2?v=4.7.0 (from https://jermelsacademy.org/2022-2023/css/font-awesome.min.css)
+20:41:44	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/fonts/fontawesome-webfont.woff?v=4.7.0 (from https://jermelsacademy.org/2022-2023/css/font-awesome.min.css)
+20:41:44	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/fonts/fontawesome-webfont.ttf?v=4.7.0 (from https://jermelsacademy.org/2022-2023/css/font-awesome.min.css)
+20:41:44	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/fonts/fontawesome-webfont.svg?v=4.7.0 (from https://jermelsacademy.org/2022-2023/css/font-awesome.min.css)
+20:41:44	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/css/owl.video.play.png (from https://jermelsacademy.org/2022-2023/css/owl.carousel.css)
+20:41:44	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/fonts/Flaticon.eot (from https://jermelsacademy.org/2022-2023/fonts/flaticon.css)
+20:41:44	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/fonts/Flaticon.eot? (from https://jermelsacademy.org/2022-2023/fonts/flaticon.css)
+20:41:44	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/fonts/Flaticon.woff (from https://jermelsacademy.org/2022-2023/fonts/flaticon.css)
+20:41:44	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/fonts/Flaticon.ttf (from https://jermelsacademy.org/2022-2023/fonts/flaticon.css)
+20:41:44	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/fonts/Flaticon.svg (from https://jermelsacademy.org/2022-2023/fonts/flaticon.css)
+20:41:46	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/images/bg/bg1.jpg (from https://jermelsacademy.org/2022-2023/style.css)
+20:41:46	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/images/bg/bg2.jpg (from https://jermelsacademy.org/2022-2023/style.css)
+20:41:46	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/images/bg/cta-bg.jpg (from https://jermelsacademy.org/2022-2023/style.css)
+20:41:46	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/images/bg/testimonial-bg.jpg (from https://jermelsacademy.org/2022-2023/style.css)
+20:41:46	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/images/slider/home1/slide2.jpg (from https://jermelsacademy.org/2022-2023/style.css)
+20:41:46	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/images/bg/bg8.jpg (from https://jermelsacademy.org/2022-2023/style.css)
+20:41:46	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/images/bg/video-bg2.jpg (from https://jermelsacademy.org/2022-2023/style.css)
+20:41:49	Error: 	"Not Found" (404) at link https://jermelsacademy.org/pdf/PDF135.pdf (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:49	Error: 	"Not Found" (404) at link https://jermelsacademy.org/pdf/PDF131.pdf (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:49	Error: 	"Not Found" (404) at link https://jermelsacademy.org/pdf/PDF130.pdf (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:49	Error: 	"Not Found" (404) at link https://jermelsacademy.org/pdf/PDF129.pdf (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:49	Error: 	"Not Found" (404) at link https://jermelsacademy.org/pdf/PDF125.pdf (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:49	Error: 	"Not Found" (404) at link https://jermelsacademy.org/pdf/PDF123.pdf (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:49	Error: 	"Not Found" (404) at link https://jermelsacademy.org/pdf/PDF122.05 (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:49	Error: 	"Not Found" (404) at link https://jermelsacademy.org/pdf/PDF120.5 (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:49	Error: 	"Not Found" (404) at link https://jermelsacademy.org/pdf/PDF117.pdf (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:49	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/images/events/1.jpg (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:49	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/events-details.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:49	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/images/events/2.jpg (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:49	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/images/events/3.jpg (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/index2.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/index3.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/index4.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/teachers.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/teachers-without-filter.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/teachers-single.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/gallery.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/gallery2.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/gallery3.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/shop.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/shop-details.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/cart.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/error-404.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/courses.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/courses2.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/courses-details.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/events.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/blog.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/blog-details.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/contact.html (from https://jermelsacademy.org/2022-2023/index.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/images/slide39.jpg (from https://jermelsacademy.org/2022-2023/phoenix-house.php)
+20:41:50	Error: 	"Not Found" (404) at link https://jermelsacademy.org/images/slide40.jpg (from https://jermelsacademy.org/2022-2023/scorpius-house.php)
+20:42:08	Error: 	"" (409) after 2 retries at link https://rgtechwebsolution.com/mail.php (from https://rgtechwebsolution.com/)
+20:42:08	Error: 	"No data (connection closed)" (-4) after 2 retries at link rgtechwebsolutions.com/wp-content/uploads/2016/11/rgtech-web-solutions-siliguri-west-bengal-logo.png (from https://rgtechwebsolution.com/)
+20:42:08	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/fonts/fonts2/Flaticon.eot (from https://jermelsacademy.org/2022-2023/fonts/fonts2/flaticon.css)
+20:42:08	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/fonts/fonts2/Flaticon.eot? (from https://jermelsacademy.org/2022-2023/fonts/fonts2/flaticon.css)
+20:42:08	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/fonts/fonts2/Flaticon.woff (from https://jermelsacademy.org/2022-2023/fonts/fonts2/flaticon.css)
+20:42:08	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/fonts/fonts2/Flaticon.ttf (from https://jermelsacademy.org/2022-2023/fonts/fonts2/flaticon.css)
+20:42:08	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/fonts/fonts2/Flaticon.svg (from https://jermelsacademy.org/2022-2023/fonts/fonts2/flaticon.css)
+20:42:08	Error: 	"Not Found" (404) at link https://jermelsacademy.org/2022-2023/back_session/admin_login.php (from https://jermelsacademy.org/2022-2023/admin_dashboard.php)
+20:42:49	Warning: 	File not parsed, looks like binary: https://jermelsacademy.org/2022-2023/pdf/disclosur/disclosur20.
+20:42:49	Warning: 	File not parsed, looks like binary: https://jermelsacademy.org/2022-2023/pdf/disclosur/disclosur21.
+20:42:58	Warning: 	File not parsed, looks like binary: https://jermelsacademy.org/2022-2023/pdf/PDF35. RUDRA KANTA GHOSH
+20:42:58	Warning: 	File not parsed, looks like binary: https://jermelsacademy.org/2022-2023/pdf/PDF36.D
+20:42:58	Warning: 	File not parsed, looks like binary: https://jermelsacademy.org/2022-2023/pdf/PDF49. C
+20:42:58	Warning: 	File not parsed, looks like binary: https://jermelsacademy.org/2022-2023/pdf/PDF78.D
+20:42:58	Warning: 	File not parsed, looks like binary: https://jermelsacademy.org/2022-2023/pdf/PDF96. SAPNA DASGUPTA
+20:42:58	Warning: 	File not parsed, looks like binary: https://jermelsacademy.org/2022-2023/pdf/PDF100. SCHOOL CALENDAR 2019 - 2020 Activity Sheet
+20:42:58	Warning: 	File not parsed, looks like binary: https://jermelsacademy.org/2022-2023/pdf/PDF101. SCHOOL CALENDAR 2019 - 2020 Activity Sheet
+20:42:58	Warning: 	File not parsed, looks like binary: https://jermelsacademy.org/2022-2023/pdf/PDF109. SCHOOL CALENDAR 2019 - 2020 Activity Sheet
+20:42:58	Warning: 	File not parsed, looks like binary: https://jermelsacademy.org/2022-2023/pdf/PDF110. SCHOOL CALENDAR 2019 - 2020 Activity Sheet
+20:42:58	Warning: 	File not parsed, looks like binary: https://jermelsacademy.org/2022-2023/pdf/PDF120.5
+20:42:58	Warning: 	File not parsed, looks like binary: https://jermelsacademy.org/2022-2023/pdf/PDF122.05
+20:42:58	Warning: 	File not parsed, looks like binary: https://jermelsacademy.org/2022-2023/pdf/PDF127.10
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 44 seconds : 698 links scanned, 591 files written (142944611 bytes overall) [141919281 bytes received at 499715 bytes/sec], 5332551 bytes transferred using HTTP compression in 75 files, ratio 35%, 3.4 requests per connection
+(96 errors, 20 warnings, 0 messages)
